@@ -9,6 +9,6 @@
 
 ### Map
 
-This map shows a quick preview of the spatial distribution of the cloudSEN12 as well as the primary metadata.
+This map shows a quick preview of the spatial distribution of cloudSEN12 as well as the primary metadata.
 
 **URL:** https://cloudsen12.github.io/map/
